@@ -155,30 +155,6 @@ me.say_hi()
 
 ---
 
-## 💡 Latest Projects
-
-```javascript
-const projects = {
-    saas_platforms: {
-        description: "Building modern SaaS solutions",
-        tech: ["Django", "React", "PostgreSQL", "Docker"],
-        status: "🚀 Active Development"
-    },
-    apis_automation: {
-        description: "RESTful APIs & automation systems",
-        tech: ["DRF", "Celery", "Redis"],
-        status: "✅ Production"
-    },
-    ui_experiences: {
-        description: "Interactive user interfaces",
-        tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
-        status: "🎨 Design & Development"
-    }
-}
-```
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
