@@ -46,15 +46,6 @@ class QasemQareish:
 
 me = QasemQareish()
 me.say_hi()
-```
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=qasemqareish&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -98,44 +89,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 Overall Stats
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qasemqareish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasemqareish&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</p>
-
-### 💻 Most Used Languages
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasemqareish&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=qasemqareish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Coding Activity" />
-</p>
-
-### 📊 Contribution Graph
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=qasemqareish&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb" alt="Contribution Graph" />
-
-### 🎯 Profile Summary
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasemqareish&theme=github_dark" alt="Profile Summary" />
-</p>
-
-<p>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qasemqareish&theme=github_dark" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qasemqareish&theme=github_dark" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qasemqareish&theme=github_dark" alt="Productive Time" />
-</p>
 
 </div>
 
